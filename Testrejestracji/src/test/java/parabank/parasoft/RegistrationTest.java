@@ -18,6 +18,7 @@ import static org.junit.Assert.assertEquals;
 
 public class RegistrationTest {
 
+    //zmiana do brancha
     static WebDriver driver;
 
     @BeforeClass
